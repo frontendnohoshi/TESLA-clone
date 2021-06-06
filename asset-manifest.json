@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/https//:frontendnohoshi.github.io/tesla-clone/static/css/main.1b58d630.chunk.css",
+    "main.js": "/https//:frontendnohoshi.github.io/tesla-clone/static/js/main.78915f57.chunk.js",
+    "main.js.map": "/https//:frontendnohoshi.github.io/tesla-clone/static/js/main.78915f57.chunk.js.map",
+    "runtime-main.js": "/https//:frontendnohoshi.github.io/tesla-clone/static/js/runtime-main.651f1cef.js",
+    "runtime-main.js.map": "/https//:frontendnohoshi.github.io/tesla-clone/static/js/runtime-main.651f1cef.js.map",
+    "static/js/2.6a3742d3.chunk.js": "/https//:frontendnohoshi.github.io/tesla-clone/static/js/2.6a3742d3.chunk.js",
+    "static/js/2.6a3742d3.chunk.js.map": "/https//:frontendnohoshi.github.io/tesla-clone/static/js/2.6a3742d3.chunk.js.map",
+    "index.html": "/https//:frontendnohoshi.github.io/tesla-clone/index.html",
+    "static/css/main.1b58d630.chunk.css.map": "/https//:frontendnohoshi.github.io/tesla-clone/static/css/main.1b58d630.chunk.css.map",
+    "static/js/2.6a3742d3.chunk.js.LICENSE.txt": "/https//:frontendnohoshi.github.io/tesla-clone/static/js/2.6a3742d3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.651f1cef.js",
+    "static/js/2.6a3742d3.chunk.js",
+    "static/css/main.1b58d630.chunk.css",
+    "static/js/main.78915f57.chunk.js"
+  ]
+}
